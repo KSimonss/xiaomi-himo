@@ -362,7 +362,7 @@ body{
     border-radius: 30px;
 }
 
-.form__radio-style--gray{
+.form__radio-style--gray:active{
     background-color: #6F6F6F;
 }
 
